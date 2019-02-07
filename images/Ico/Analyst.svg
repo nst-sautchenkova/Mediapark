@@ -1,0 +1,19 @@
+<svg id="Analyst" xmlns="http://www.w3.org/2000/svg" width="44" height="40" viewBox="0 0 44 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d6d6d4;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #f3654e;
+      }
+    </style>
+  </defs>
+  <path id="Analyst-2" data-name="Analyst" class="cls-1" d="M688.5,3852v-8a1,1,0,0,1,1-1H692.5a1,1,0,0,1,1,1v8h-5m12,0v-22.01h0a0.991,0.991,0,0,1,.993-0.99h3.01a1,1,0,0,1,1,.99V3852h-5m12,0,5,0h-5m-2,0h-3v-22.01a3,3,0,0,0-3-2.99H701.5a2.993,2.993,0,0,0-3,2.99V3852h-3v-8a3,3,0,0,0-3-3H689.5a3,3,0,0,0-3,3v8h-5a1,1,0,0,0,0,2h42a1,1,0,0,0,0-2h-4" transform="translate(-680.5 -3814)"/>
+  <path id="Analyst_копия" data-name="Analyst копия" class="cls-2" d="M716.5,3814h-3.009a3,3,0,0,0-2.994,3.01V3852h2v-35a1,1,0,0,1,1-1H716.5a1,1,0,0,1,1,1.01V3852m0.031,0.03,1.969-.03v-34.99a3,3,0,0,0-3-3.01" transform="translate(-680.5 -3814)"/>
+</svg>

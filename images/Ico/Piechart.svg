@@ -1,0 +1,19 @@
+<svg id="Piechart" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d6d6d4;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #f3654e;
+      }
+    </style>
+  </defs>
+  <path id="PIECHART-2" data-name="PIECHART" class="cls-1" d="M702.68,3372.63a18.185,18.185,0,1,0,18.181,18.19,1.006,1.006,0,0,0-1.006-1.01H703.678v-16.17A1,1,0,0,0,702.68,3372.63Zm-1.006,18.19a1,1,0,0,0,1.006,1h16.144a16.176,16.176,0,1,1-17.15-17.15v16.15h0Z" transform="translate(-684.5 -3369)"/>
+  <path id="PIECHART_копия" data-name="PIECHART копия" class="cls-2" d="M706.859,3370v15.64a1,1,0,0,0,1.006,1h15.629a1,1,0,0,0,1.006-1A16.651,16.651,0,0,0,707.865,3369,1,1,0,0,0,706.859,3370Zm15.6,14.63H708.863v-13.59A14.64,14.64,0,0,1,722.455,3384.63Z" transform="translate(-684.5 -3369)"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg id="Рекламное_исследование" data-name="Рекламное исследование" xmlns="http://www.w3.org/2000/svg" width="44" height="40" viewBox="0 0 44 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d6d6d4;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #f3654e;
+      }
+    </style>
+  </defs>
+  <path id="Analyst" class="cls-1" d="M8,301v-8a1,1,0,0,1,1-1H12a1,1,0,0,1,1,1v8H8m12,0V278.992h0A1,1,0,0,1,20.993,278H24a1,1,0,0,1,1,.993V301H20m12,0,5,0H32m-2,0H27V278.992A3,3,0,0,0,24,276H21a3,3,0,0,0-3,2.993V301H15v-8a3,3,0,0,0-3-3H9a3,3,0,0,0-3,3v8H1a1,1,0,1,0,0,2H43a1,1,0,1,0,0-2H39" transform="translate(0 -263)"/>
+  <path id="Analyst_копия" data-name="Analyst копия" class="cls-2" d="M36,263H32.994A3,3,0,0,0,30,266.005v35h2V266a1,1,0,0,1,1-1H36a1.006,1.006,0,0,1,1,1.006v35m0.031,0.03L39,301v-35A3.006,3.006,0,0,0,36,263" transform="translate(0 -263)"/>
+</svg>

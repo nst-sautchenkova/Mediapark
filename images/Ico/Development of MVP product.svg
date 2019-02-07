@@ -1,0 +1,12 @@
+<svg id="Разработка_MVP_продукта" data-name="Разработка MVP продукта" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="48" viewBox="0 0 30 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f3654e;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <image id="MobileDev" width="30" height="48" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAwBAMAAAD0uNfXAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAKlBMVEXW1tT////W1tTW1tTW1tTW1tTW1tTW1tTW1tTW1tTW1tTW1tTW1tQAAAAzVU9/AAAADHRSTlMAADC5+vbAKBDSAR+w/hs9AAAAAWJLR0QN9rRh9QAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB+EDFQw0DIot+UIAAACESURBVCjPY2AyOYMAzooMqmeQQRCDTXoHApQdZvApYAADQRAQP8JwpgHI4QQqnQXkS52B8FdC+YJQPhdQ70IkPkw/iI8KMPk7kOzvwKKfZD4P3PBGrHwOuG0LKTC/ESefA2o2ue4fYnzqxO9M1PDigvOh6XEVLD3apCPpB6ZX9PSMlt4BIbn3umf0HEYAAAAASUVORK5CYII="/>
+  <path id="Прямоугольник_2" data-name="Прямоугольник 2" class="cls-1" d="M13,337H32v2H13v-2Zm0,6H24v2H13v-2Z" transform="translate(-8 -322)"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg id="Dev" xmlns="http://www.w3.org/2000/svg" width="42" height="40" viewBox="0 0 42 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d6d6d4;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #f3674d;
+      }
+    </style>
+  </defs>
+  <path id="DEV-2" data-name="DEV" class="cls-1" d="M993.5,3850.99a1.008,1.008,0,0,1-1,1.01H956.5a1,1,0,0,1-1-1v-27h38v26.99Zm-37-34.99H992.5a1,1,0,0,1,1,1v5h-38v-5A1.009,1.009,0,0,1,956.5,3816Zm39,1a3,3,0,0,0-3-3H956.5a3.028,3.028,0,0,0-3,3v33.99a3,3,0,0,0,3,3.01h36a3.009,3.009,0,0,0,3-3.01V3817Z" transform="translate(-953.5 -3814)"/>
+  <path id="DEV_копия" data-name="DEV копия" class="cls-2" d="M982.5,3829h5v2h-6v-2h1Zm-6.143,2H961.5v-2h16v2h-1.143Zm-3.857,6h-11v-2h18v2h-7Zm-11,4h8v2h-8v-2Z" transform="translate(-953.5 -3814)"/>
+</svg>
