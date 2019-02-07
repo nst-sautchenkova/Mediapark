@@ -1,0 +1,219 @@
+@font-face {
+    font-family: "GothamProBold";
+    src: url("../fonts/GothamProBold.eot");
+    src: url("../fonts/GothamProBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamProBold.woff") format("woff"),
+    url("../fonts/GothamProBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+
+}
+@font-face {
+    font-family: "GothamProRegular";
+    src: url("../fonts/GothamProRegular.eot");
+    src: url("../fonts/GothamProRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamProRegular.woff") format("woff"),
+    url("../fonts/GothamProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+
+}
+@font-face {
+    font-family: "MyriadProRegular";
+    src: url("../fonts/MyriadProRegular.eot");
+    src: url("../fonts/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MyriadProRegular.woff") format("woff"),
+    url("../fonts/MyriadProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?c68a9u');
+  src:  url('../fonts/icomoon.eot?c68a9u#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?c68a9u') format('truetype'),
+    url('../fonts/icomoon.woff?c68a9u') format('woff'),
+    url('../fonts/icomoon.svg?c68a9u#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Advertising-research .path1:before {
+  content: "\e900";
+  color: rgb(214, 214, 212);
+}
+.icon-Advertising-research .path2:before {
+  content: "\e901";
+  margin-left: -64px;
+  color: rgb(243, 101, 78);
+}
+.icon-arrow:before {
+  content: "\e902";
+}
+.icon-Dev .path1:before {
+  content: "\e903";
+  color: rgb(214, 214, 212);
+}
+.icon-Dev .path2:before {
+  content: "\e904";
+  margin-left: -1.0498046875em;
+  color: rgb(243, 103, 77);
+}
+.icon-Develop-iOS_-Android_-WP-applications .path1:before {
+  content: "\e905";
+  color: rgb(214, 214, 212);
+}
+.icon-Develop-iOS_-Android_-WP-applications .path2:before {
+  content: "\e906";
+  margin-left: -60px;
+  color: rgb(243, 101, 78);
+}
+.icon-Development-of-an-interesting-prototype .path1:before {
+  content: "\e907";
+  color: rgb(214, 214, 212);
+  margin-right: -20px;
+}
+.icon-Development-of-an-interesting-prototype .path2:before {
+  content: "\e908";
+  margin-left: -0.6171875em;
+  color: rgb(243, 101, 78);
+}
+.icon-Development-of-MVP-product:after {
+  content: "\e909";
+  color: rgb(243, 101, 78);
+  margin-left: -45px;
+}
+.icon-Development-of-MVP-product:before {
+    content: "\e91e";
+    color: rgb(214, 214, 212);
+    
+}
+.icon-Development-tasks .path1:before {
+  content: "\e90a";
+  color: rgb(214, 214, 212);
+}
+.icon-Development-tasks .path2:before {
+  content: "\e90b";
+  margin-left: -60px;
+  color: rgb(243, 101, 78);
+}
+.icon-Integration .path1:before {
+  content: "\e90c";
+  color: rgb(214, 214, 212);
+}
+.icon-Integration .path2:before {
+  content: "\e90d";
+  margin-left: -45px;
+  color: rgb(243, 101, 78);
+}
+.icon-mail:before {
+  content: "\e90e";
+}
+.icon-phone:before {
+  content: "\e90f";
+}
+.icon-Piechart .path1:before {
+  content: "\e910";
+  color: rgb(214, 214, 212);
+}
+.icon-Piechart .path2:before {
+  content: "\e911";
+  margin-left: -60px;
+  color: rgb(243, 101, 78);
+}
+.icon-project-development-strategy .path1:before {
+  content: "\e912";
+  color: rgb(214, 214, 212);
+}
+.icon-project-development-strategy .path2:before {
+  content: "\e913";
+  margin-left: -52px;
+  color: rgb(243, 101, 78);
+}
+.icon-Promote-your-mobile-app .path1:before {
+  content: "\e914";
+  color: rgb(214, 214, 212);
+}
+.icon-Promote-your-mobile-app .path2:before {
+  content: "\e915";
+  margin-left: -60px;
+  color: rgb(243, 101, 78);
+}
+.icon-Support .path1:before {
+  content: "\e916";
+  color: rgb(214, 214, 212);
+}
+.icon-Support .path2:before {
+  content: "\e917";
+  margin-left: -60px;
+  color: rgb(243, 103, 77);
+}
+.icon-Tech .path1:before {
+  content: "\e918";
+  color: rgb(214, 214, 212);
+}
+.icon-Tech .path2:before {
+  content: "\e919";
+  margin-left: -60px;
+  color: rgb(243, 101, 78);
+}
+.icon-UI_UX .path1:before {
+  content: "\e91a";
+  color: rgb(214, 214, 212);
+}
+.icon-UI_UX .path2:before {
+  content: "\e91b";
+  margin-left: -60px;
+  color: rgb(243, 101, 78);
+}
+.icon-UX-analit .path1:before {
+  content: "\e91c";
+  color: rgb(214, 214, 212);
+}
+.icon-UX-analit .path2:before {
+  content: "\e91d";
+  margin-left: -0.775390625em;
+  color: rgb(243, 101, 78);
+  margin-left: -51px;
+}
+.icon-UX .path1:before {
+  content: "\e921";
+  color: rgb(214, 214, 212);
+}
+.icon-UX .path2:before {
+  content: "\e922";
+  margin-left: -60px;
+  color: rgb(243, 101, 78);
+}
+.icon-mobile_2_active:before {
+  content: "\e91e";
+  color: rgb(243, 101, 78);
+  font-size: 3.125em;
+}
+.icon-uniE901:before {
+  content: "\e91f";
+  color: #ffffff;
+  font-size: 8.938em;
+}
+.icon-DigitalMarketing:before {
+  content: "\e920";
+  color: rgb(243, 101, 78);
+  font-size: 3.750em;
+}
+
